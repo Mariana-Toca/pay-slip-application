@@ -1,0 +1,7 @@
+C:\Users\mtoca\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\mtoca\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\mtoca\source\repos\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\mtoca\source\repos\CSProject\CSProject\obj\Debug\CSProject.csproj.AssemblyReference.cache
+C:\Users\mtoca\source\repos\CSProject\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\mtoca\source\repos\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\mtoca\source\repos\CSProject\CSProject\obj\Debug\CSProject.pdb
